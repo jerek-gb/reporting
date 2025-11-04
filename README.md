@@ -1,3 +1,5 @@
+<link rel="icon" href="favicon.ico">
+
 <a href="https://greasebusters.app.n8n.cloud/webhook/overdue-invoices" target="_blank">Overdue Invoices</a>
 
 <a href="https://greasebusters.app.n8n.cloud/webhook/overdue-jobs" target="_blank">Overdue Jobs</a>
